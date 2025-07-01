@@ -1,0 +1,6 @@
+
+{
+  "name": "FocusFlow: ADHD Task Manager",
+  "description": "A task management application designed with simplicity and focus for individuals with ADHD. It uses local storage to save tasks, helping users manage their daily workflow in a distraction-free environment.",
+  "requestFramePermissions": []
+}
